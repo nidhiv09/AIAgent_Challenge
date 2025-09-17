@@ -11,7 +11,8 @@ At its core, the agent is a problem-solver. It follows a strategic loop: **Gener
 
 The diagram below visualizes the agent's step-by-step decision-making process:
 
-![Agent Workflow Flowchart](C:\Users\91797\Downloads\ai agent\ai agent\ai-agent-challenge\flowchart.jpg)
+![flowchart](https://github.com/user-attachments/assets/01be56aa-0fad-45c7-bb27-6277cf5c4220)
+
 
 
 The agent's workflow can be broken down into these key phases:
